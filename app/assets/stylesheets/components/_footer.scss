@@ -1,0 +1,26 @@
+footer
+{
+ list-style-type: none;
+ background-color: #888;
+ display: flex;
+ justify-content: space-between;
+ flex-direction: row;
+ padding: 14px 16px;
+ display: block;
+ color: white;
+ border:1px groove black
+ }
+
+ .footer-right a:hover
+ {
+     background-color: #111;
+ }
+
+ .footer-right
+ {
+   display: block;
+   color: white;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+ }
