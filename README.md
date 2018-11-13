@@ -1,24 +1,25 @@
-# README
+# UI SPRING DESIGN
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+L'objectif de ce projet était de réaliser un petit site avec du CSS et HTML plus avancé.
 
-Things you may want to cover:
+## 🐣 Pour commencer 🐣
 
-* Ruby version
+```
+Cloner ce repository
 
-* System dependencies
+```
 
-* Configuration
+## 🔧 Testez ce site en local
 
-* Database creation
 
-* Database initialization
+````
+Ensuite bundle install et rails s
+``````
 
-* How to run the test suite
+💁‍♀️ Auteurs 💁‍♀️
 
-* Services (job queues, cache servers, search engines, etc.)
+Ce projet a été réalisé en pair-programming avec Anaïs Diologeant et Virginie Valeur Hannebicque.
 
-* Deployment instructions
 
-* ...
+
+Bonne journée
