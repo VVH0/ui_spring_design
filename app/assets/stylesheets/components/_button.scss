@@ -1,10 +1,21 @@
-.button
+.btn_blue
  {
 	border-radius:30px 0 30px 0;
-  background: #234B79;
+  background: blacK;
 	border:black;
 	color: white;
 	font:bold 20px Verdana;
-	padding:10px 15px 1px;
+  color: white;
+  text-decoration: none;
+  outline: 0;
 
+
+}
+.btn_blue:hover
+{
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16), 0 0 0 1px rgba(0, 0, 0, 0.08);
+  color: grey;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  border-color: black;
+  width: 300px;
 }

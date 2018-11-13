@@ -9,7 +9,7 @@ Cloner ce repository
 
 ```
 
-## 🔧 Testez ce site en local
+## 💻  Testez ce site en local 💻 
 
 
 ````
