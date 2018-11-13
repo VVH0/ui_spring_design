@@ -23,7 +23,7 @@
   -webkit-user-select : none;
 }
 .tabbed > section > div{
-  box-sizing    : border-box;
+
   padding       : 0.5em 0.75em;
   border        : 1px solid #ddd;
   border-radius : 4px;
@@ -31,7 +31,7 @@
   background    : #fff;
 }
 .tabbed > section > h1{
-  box-sizing  : border-box;
+
   margin      : 0;
   padding     : 0.5em 0.5em 0;
   overflow    : hidden;
@@ -58,6 +58,6 @@
 }
 
 .tabbed > input:checked + section > h1{
-  position : relative;
+
   z-index  : 2;
 }
